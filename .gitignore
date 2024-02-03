@@ -1,0 +1,7 @@
+secrets.txt
+
+
+#this is comment
+#rules:
+#Log file 
+#*.txt = commit toproject all the files having txt couldbe ignored
